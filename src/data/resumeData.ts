@@ -187,7 +187,7 @@ export const resumeData = {
     hero: {
       name: "ภานุวัฒน์",
       surname: "สกุลเต็ม",
-      role: "ผู้เชี่ยวชาญด้าน IT Support & Full-Stack Developer",
+      role: "IT Support & Full-Stack Developer",
       location: "สมุทรสาคร, ประเทศไทย",
       phone: "088-286-2899",
       email: "wat03555@gmail.com",
